@@ -1,0 +1,54 @@
+html, body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+main, 
+footer {
+  width: 50vw;
+  margin: 0 auto;
+}
+
+header,
+h1, .video {
+  text-align: center;
+}
+
+.logo {
+  width: 10rem;
+}
+
+header hr {
+    border: 0;
+    height: 1px;
+    background-color: #FFD877;
+}
+
+main hr {
+    border: 0;
+    height: 1px;
+    background-color: #D3F6F5;
+}
+
+header div{
+    background-color: #FDFBF1;
+}
+
+.video p {
+    color: grey;
+}
+
+.FEATURED {
+    color: #B5460F;
+}
+
+header h4 {
+    color: #004D4C;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
+
+a:link {
+    color: #107777;
+}
