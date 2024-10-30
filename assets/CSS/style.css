@@ -52,3 +52,7 @@ ul li {
 a:link {
     color: #107777;
 }
+
+.video video{
+    width: 100%;
+}
