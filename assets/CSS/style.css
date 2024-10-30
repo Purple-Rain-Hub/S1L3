@@ -4,7 +4,7 @@ html, body {
 
 main, 
 footer {
-  width: 50vw;
+  width: 40vw;
   margin: 0 auto;
 }
 
@@ -41,7 +41,7 @@ header div{
     color: #B5460F;
 }
 
-header h4 {
+header p {
     color: #004D4C;
 }
 
